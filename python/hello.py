@@ -1,0 +1,9 @@
+a=5
+b=5.6
+c="Sumit"
+print(a)
+print(b)
+print(c)
+print(type(a))
+print(type(b))
+print(type(c))
